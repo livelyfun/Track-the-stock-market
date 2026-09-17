@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "overview": "Overview",
+    "watchlist": "Watchlist",
+    "markets": "Markets",
+    "settings": "Settings",
+    "live": "Live",
+    "logout": "Log out"
+  },
+  "auth": {
+    "welcome_back": "Welcome back",
+    "dont_have_account": "Don't have an account?",
+    "sign_up_free": "Sign up for free",
+    "already_have_account": "Already have an account?",
+    "sign_in": "Sign in",
+    "signing_in": "Signing in...",
+    "create_account": "Create an account",
+    "creating_account": "Creating account...",
+    "email_address": "Email address",
+    "password": "Password",
+    "default_market": "Default Market",
+    "tagline_title": "Real-time Market Insights & Multi-Exchange Analytics",
+    "tagline_desc": "Stream live quotes across US, India, UK, and global markets with low-latency WebSockets."
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "connected_to": "Real-time feed connected to {{market}} exchanges with live updates.",
+    "socket_connected": "Live Socket Connected",
+    "connecting_stream": "Connecting Stream...",
+    "refresh": "Refresh",
+    "sync": "Sync",
+    "tracked_tickers": "Tracked Tickers",
+    "market_region": "Market Region",
+    "base_currency": "Portfolio Base Currency",
+    "live_tickers": "Live Watchlist Tickers",
+    "instruments_active": "{{count}} instruments active",
+    "interactive_charts": "Interactive Chart & Real-Time Stats"
+  },
+  "watchlist": {
+    "title": "Live Watchlist & Charts",
+    "desc": "Real-time multi-exchange price streaming with interactive OHLC charts and statistics.",
+    "filter_placeholder": "Filter tickers or company names...",
+    "symbol_placeholder": "Symbol (e.g. AAPL)",
+    "add_stock": "Add Stock",
+    "adding": "Adding...",
+    "popular_in": "Popular in {{market}}:",
+    "no_symbols": "No symbols found in watchlist",
+    "add_hint": "Add popular tickers or search by symbol above.",
+    "ticker_asset": "Ticker / Asset",
+    "live_price": "Live Price",
+    "day_change": "24h Change",
+    "day_range": "Day High / Low",
+    "year_range": "52W High / Low",
+    "volume_cap": "Volume / Market Cap",
+    "action": "Action",
+    "close_chart": "Close chart"
+  },
+  "stats": {
+    "current_price": "Current Price",
+    "prev_close": "Prev Close",
+    "net_movement": "Net price movement",
+    "market_cap_volume": "Market Cap & Volume"
+  },
+  "markets": {
+    "title": "Global Markets & Exchanges",
+    "desc": "Select your primary market region to automatically format ticker symbols, currency notations, and popular index benchmarks.",
+    "active": "Active",
+    "base_currency": "Base Currency",
+    "symbol_suffix": "Symbol Suffix",
+    "benchmark": "Primary Benchmark",
+    "constituents": "Key Constituents",
+    "current_region": "Current Region",
+    "set_as_preferred": "Set as Preferred Market",
+    "switched_success": "Default market successfully switched to {{name}} ({{currency}})"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी (Hindi)",
+    "es": "Español (Spanish)",
+    "ja": "日本語 (Japanese)"
+  }
+}
